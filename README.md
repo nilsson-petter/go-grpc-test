@@ -1,1 +1,1 @@
-grpcurl -d '{"name":"world!"}' -plaintext localhost:5051 greeting.Greetor/SayHello
+```grpcurl -d '{"name":"world!"}' -plaintext localhost:5051 greeting.Greetor/SayHello```
